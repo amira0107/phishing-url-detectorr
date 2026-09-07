@@ -1,5 +1,5 @@
 """
-app.py
+app/app.py
 ------
 Flask REST API + minimal web UI for the Phishing URL Detector.
 
