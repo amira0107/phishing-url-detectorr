@@ -1,5 +1,5 @@
 """
-data/generate_dataset.py
+generate_dataset.py
 --------------------
 Builds a labeled dataset of URLs (legitimate=0 / phishing=1) for
 training the phishing detector.
