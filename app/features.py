@@ -1,5 +1,5 @@
 """
-app/features.py
+features.py
 ------------
 Feature extraction module for the Phishing URL Detector.
 
